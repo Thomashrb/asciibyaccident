@@ -1,0 +1,8 @@
+[package]
+name = "asciibyaccident"
+version = "0.1.0"
+authors = ["Thomashrb <thomas@beat.no>"]
+
+[dependencies]
+clap = "2.31.2"
+rand = "0.5.1"
